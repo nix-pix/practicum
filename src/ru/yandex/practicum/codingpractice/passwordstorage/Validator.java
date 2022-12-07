@@ -1,5 +1,5 @@
 package ru.yandex.practicum.codingpractice.passwordstorage;
 
-public class Validator {
+public interface Validator {
     void validate(String value) throws ValidateException;
 }

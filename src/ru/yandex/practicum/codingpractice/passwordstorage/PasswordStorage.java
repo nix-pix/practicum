@@ -2,7 +2,7 @@ package ru.yandex.practicum.codingpractice.passwordstorage;
 
 import java.io.IOException;
 
-public class PasswordStorage {
+public interface PasswordStorage {
     void open() throws IOException;
     void store(String user, String password) throws IOException;
     String get(String user) throws IOException;
