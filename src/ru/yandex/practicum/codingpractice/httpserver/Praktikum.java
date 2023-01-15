@@ -5,8 +5,10 @@ import com.sun.net.httpserver.HttpHandler;
 import com.sun.net.httpserver.HttpServer;
 
 import java.io.IOException;
+import java.io.InputStream;
 import java.io.OutputStream;
 import java.net.InetSocketAddress;
+import java.net.URL;
 import java.nio.charset.Charset;
 import java.nio.charset.StandardCharsets;
 
@@ -85,6 +87,18 @@ public class Praktikum {
                     outputStream.write(responseString.getBytes());
                 }
             }
+        }
+
+        void readTxtFileFromHttp() throws IOException {
+            String url = "https://s3.o7planning.com/txt/utf8-file-without-bom.txt";
+
+            InputStream is = new URL(url).openStream();
+
+            byte[] allBytes = is.readAllBytes();
+            String content = new String(allBytes, "UTF-8");
+            System.out.println(content);
+
+            is.close();
         }
 
         enum Endpoint {GET_POSTS, GET_COMMENTS, POST_COMMENT, UNKNOWN}
