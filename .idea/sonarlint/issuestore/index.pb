@@ -93,3 +93,5 @@ Bsrc/ru/yandex/practicum/codingpractice/financialapp/Praktikum.java,9\1\9104c5a
 Ssrc/ru/yandex/practicum/codingpractice/fincalcexp/FinancialCalculatorException.java,2\e\2e76e43a22e84e3b98531bd220ffb17334fb58d4
 r
 Bsrc/ru/yandex/practicum/codingpractice/HelloHandler/Practicum.java,f\f\ff1ed6e0dc8624fee8afdcfb4aca1f6c06164468
+p
+@src/ru/yandex/practicum/codingpractice/httpserver/Praktikum.java,6\0\608a15d3fae837fa72a24806ae8eebc5d1457f39
