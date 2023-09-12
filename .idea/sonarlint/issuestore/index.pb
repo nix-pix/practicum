@@ -1,6 +1,4 @@
 
-9
-	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
 ~
 Nsrc/ru/yandex/practicum/codingpractice/pizzastorage/TooMuchPizzaException.java,d\5\d506624366b84c1d795b563734c8c0f18fe00b09
 t
