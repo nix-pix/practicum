@@ -93,3 +93,7 @@ r
 Bsrc/ru/yandex/practicum/codingpractice/HelloHandler/Practicum.java,f\f\ff1ed6e0dc8624fee8afdcfb4aca1f6c06164468
 p
 @src/ru/yandex/practicum/codingpractice/httpserver/Praktikum.java,6\0\608a15d3fae837fa72a24806ae8eebc5d1457f39
+e
+5src/ru/yandex/practicum/codingpractice/Practicum.java,6\4\647b0a5e66d81bd6d9f9ab1b6f6c46a72da1bb8d
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d

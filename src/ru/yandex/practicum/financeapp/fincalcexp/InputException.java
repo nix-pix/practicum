@@ -1,4 +1,4 @@
-package ru.yandex.practicum.codingpractice.fincalcexp;
+package ru.yandex.practicum.financeapp.fincalcexp;
 
 public class InputException extends Exception {
 

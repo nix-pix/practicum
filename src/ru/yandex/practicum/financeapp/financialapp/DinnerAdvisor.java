@@ -1,4 +1,4 @@
-package ru.yandex.practicum.codingpractice.financialapp;
+package ru.yandex.practicum.financeapp.financialapp;
 
 public class DinnerAdvisor {
 
