@@ -103,3 +103,11 @@ Bsrc/ru/yandex/practicum/financeapp/financialapp/DinnerAdvisor.java,9\d\9d0ae5a
 osrc/ru/yandex/practicum/codingpractice/reversepolishnotationcalculator/ReversePolishNotationCalculatorTest.java,c\9\c989562665f6855a29ff98090d10d6d3720cc9f3
 ›
 ksrc/ru/yandex/practicum/codingpractice/reversepolishnotationcalculator/ReversePolishNotationCalculator.java,2\1\2118e7f4c8d33a09cef1fc4fb6926466ec8e67c6
+}
+Msrc/ru/yandex/practicum/codingpractice/recyclingcompany/RecyclingCompany.java,8\a\8a315caecc363bd433a969d43943b30a2a83ae60
+
+Osrc/ru/yandex/practicum/codingpractice/recyclingcompany/RecyclableMaterial.java,6\3\63b397bcee57e79b8740aef1fa11b45a958589cc
+x
+Hsrc/ru/yandex/practicum/codingpractice/recyclingcompany/ChatCommand.java,1\0\10c86af2831c14cb9eeb148b8df500676a12bd80
+y
+Isrc/ru/yandex/practicum/codingpractice/recyclingcompany/MaterialType.java,6\0\60afe20098c607a28204e25c8a1fa391bcf3ca04
