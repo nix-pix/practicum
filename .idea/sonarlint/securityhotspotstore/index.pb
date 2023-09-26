@@ -39,3 +39,9 @@ y
 Isrc/ru/yandex/practicum/codingpractice/recyclingcompany/MaterialType.java,6\0\60afe20098c607a28204e25c8a1fa391bcf3ca04
 x
 Hsrc/ru/yandex/practicum/codingpractice/recyclingcompany/ChatCommand.java,1\0\10c86af2831c14cb9eeb148b8df500676a12bd80
+y
+Isrc/ru/yandex/practicum/codingpractice/pricecalculator/TransportType.java,0\0\0044512dddc45651d26d8d47a6cf98e525903111
+
+Osrc/ru/yandex/practicum/codingpractice/pricecalculator/PriceCalculatorTest.java,9\a\9a954fad9b778013fe5c84e7c2f16a26b40774b7
+{
+Ksrc/ru/yandex/practicum/codingpractice/pricecalculator/PriceCalculator.java,4\0\40ba7bda35563014c63dc6c6a18b49ad8513157b
