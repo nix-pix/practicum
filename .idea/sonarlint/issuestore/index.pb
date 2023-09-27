@@ -111,3 +111,5 @@ x
 Hsrc/ru/yandex/practicum/codingpractice/recyclingcompany/ChatCommand.java,1\0\10c86af2831c14cb9eeb148b8df500676a12bd80
 y
 Isrc/ru/yandex/practicum/codingpractice/recyclingcompany/MaterialType.java,6\0\60afe20098c607a28204e25c8a1fa391bcf3ca04
+n
+>src/ru/yandex/practicum/codingpractice/pizzeria/Practicum.java,7\a\7ae249f8c1a892e3112e0998c4fb61f93ccbc881

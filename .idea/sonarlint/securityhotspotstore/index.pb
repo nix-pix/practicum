@@ -45,3 +45,5 @@ Isrc/ru/yandex/practicum/codingpractice/pricecalculator/TransportType.java,0\0\
 Osrc/ru/yandex/practicum/codingpractice/pricecalculator/PriceCalculatorTest.java,9\a\9a954fad9b778013fe5c84e7c2f16a26b40774b7
 {
 Ksrc/ru/yandex/practicum/codingpractice/pricecalculator/PriceCalculator.java,4\0\40ba7bda35563014c63dc6c6a18b49ad8513157b
+n
+>src/ru/yandex/practicum/codingpractice/pizzeria/Practicum.java,7\a\7ae249f8c1a892e3112e0998c4fb61f93ccbc881
