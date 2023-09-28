@@ -47,3 +47,13 @@ Osrc/ru/yandex/practicum/codingpractice/pricecalculator/PriceCalculatorTest.java
 Ksrc/ru/yandex/practicum/codingpractice/pricecalculator/PriceCalculator.java,4\0\40ba7bda35563014c63dc6c6a18b49ad8513157b
 n
 >src/ru/yandex/practicum/codingpractice/pizzeria/Practicum.java,7\a\7ae249f8c1a892e3112e0998c4fb61f93ccbc881
+~
+Nsrc/ru/yandex/practicum/codingpractice/pizzastorage/TooMuchPizzaException.java,d\5\d506624366b84c1d795b563734c8c0f18fe00b09
+r
+Bsrc/ru/yandex/practicum/codingpractice/pizzastorage/Practicum.java,2\e\2ef7a52a435cbff1295f7aafa0f4c2d268d2ae67
+u
+Esrc/ru/yandex/practicum/codingpractice/pizzastorage/PizzaStorage.java,f\d\fd4b90ce0c0e3d96f8fec4620e61951e9deb8d42
+€
+Psrc/ru/yandex/practicum/codingpractice/pizzastorage/NotEnoughPizzaException.java,6\8\6802f1e39e5566ecae86fcc3c676506ad9f55a00
+€
+Psrc/ru/yandex/practicum/codingpractice/pizzastorage/IncorrectInputException.java,d\d\ddac9bd5521071dde244c27f7ad682360e066e09
