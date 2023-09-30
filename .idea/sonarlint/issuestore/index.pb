@@ -117,3 +117,13 @@ u
 Esrc/ru/yandex/practicum/codingpractice/pizzastorage/PizzaStorage.java,f\d\fd4b90ce0c0e3d96f8fec4620e61951e9deb8d42
 €
 Psrc/ru/yandex/practicum/codingpractice/pizzastorage/NotEnoughPizzaException.java,6\8\6802f1e39e5566ecae86fcc3c676506ad9f55a00
+€
+Psrc/ru/yandex/practicum/codingpractice/newyearreminder/SocialNetworkContact.java,e\f\efd755abc64b2ccfe2c6b2a8d082dec52b0ed409
+q
+Asrc/ru/yandex/practicum/codingpractice/newyearreminder/Phone.java,d\8\d89a3376e0c83aa14c7295f12ff744187e5e7a79
+q
+Asrc/ru/yandex/practicum/codingpractice/newyearreminder/Email.java,b\f\bf7a16ad9a6ed80a92efb98a3a441911c81b9179
+w
+Gsrc/ru/yandex/practicum/codingpractice/newyearreminder/ContactBook.java,b\2\b2627f49dba8922df7bef35b2139a445857672f2
+s
+Csrc/ru/yandex/practicum/codingpractice/newyearreminder/Contact.java,0\5\054a3631fb95f4c6281c3332270b65ab3876d5f3

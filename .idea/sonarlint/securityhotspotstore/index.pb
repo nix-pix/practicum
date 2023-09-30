@@ -77,3 +77,17 @@ Qsrc/ru/yandex/practicum/codingpractice/passwordstorage/PasswordMemoryStorage.ja
 Ssrc/ru/yandex/practicum/codingpractice/passwordstorage/PasswordLengthValidator.java,7\f\7f3b8b93db8ba5ed53e355ca7ba7b6b3b3dfe414
 y
 Isrc/ru/yandex/practicum/codingpractice/passwordstorage/NameValidator.java,5\8\58d12cf10a292c1966277b45d87927ae9ca1e865
+€
+Psrc/ru/yandex/practicum/codingpractice/newyearreminder/SocialNetworkContact.java,e\f\efd755abc64b2ccfe2c6b2a8d082dec52b0ed409
+u
+Esrc/ru/yandex/practicum/codingpractice/newyearreminder/Practicum.java,1\d\1d5cdfb96a55a33d9833ee49dfb41ad4291dd507
+q
+Asrc/ru/yandex/practicum/codingpractice/newyearreminder/Phone.java,d\8\d89a3376e0c83aa14c7295f12ff744187e5e7a79
+q
+Asrc/ru/yandex/practicum/codingpractice/newyearreminder/Email.java,b\f\bf7a16ad9a6ed80a92efb98a3a441911c81b9179
+w
+Gsrc/ru/yandex/practicum/codingpractice/newyearreminder/ContactBook.java,b\2\b2627f49dba8922df7bef35b2139a445857672f2
+s
+Csrc/ru/yandex/practicum/codingpractice/newyearreminder/Contact.java,0\5\054a3631fb95f4c6281c3332270b65ab3876d5f3
+s
+Csrc/ru/yandex/practicum/codingpractice/newyearreminder/Address.java,5\5\554f15189b2dbe2e8199a9b0980d6a3060e735a7
