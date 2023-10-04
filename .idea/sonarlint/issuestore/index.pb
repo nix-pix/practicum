@@ -31,10 +31,6 @@ y
 Isrc/ru/yandex/practicum/codingpractice/pricecalculator/TransportType.java,0\0\0044512dddc45651d26d8d47a6cf98e525903111
 
 Osrc/ru/yandex/practicum/codingpractice/pricecalculator/PriceCalculatorTest.java,9\a\9a954fad9b778013fe5c84e7c2f16a26b40774b7
-u
-Esrc/ru/yandex/practicum/codingpractice/fincalcexp/LimitException.java,2\9\299734ba6e5c64298205d50d91030645eb24c087
-u
-Esrc/ru/yandex/practicum/codingpractice/fincalcexp/InputException.java,1\0\106d9bbfa52cf0e74e06e7c119f41ffb9c84ab5d
 s
 Csrc/ru/yandex/practicum/codingpractice/timeticketsales/Airport.java,1\a\1ac10a73ff238113906d21dcf8116eee1b06f50a
 u
@@ -70,19 +66,9 @@ Gsrc/ru/yandex/practicum/codingpractice/endpointsonserver/Practicum.java,a\d\ad
 r
 Bsrc/ru/yandex/practicum/codingpractice/errorsinarow/Practicum.java,a\5\a5cfa41bb1bd5cef595efbb48f2aef6f03ac60a3
 r
-Bsrc/ru/yandex/practicum/codingpractice/financialapp/Converter.java,0\b\0bf20b162769ce1cbe725184fb8b133bb44f6b6f
-v
-Fsrc/ru/yandex/practicum/codingpractice/financialapp/DinnerAdvisor.java,e\2\e238eb90b97b39eac6051dca8f11a0b4ffe8987d
-x
-Hsrc/ru/yandex/practicum/codingpractice/financialapp/ExpensesManager.java,c\6\c6a2a58bcbc27635a8c50befb31d7385a22f970d
-r
-Bsrc/ru/yandex/practicum/codingpractice/financialapp/Praktikum.java,9\1\9104c5a4ff026eaf52fbc2ab4409ea109dbac32c
-r
 Bsrc/ru/yandex/practicum/codingpractice/HelloHandler/Practicum.java,f\f\ff1ed6e0dc8624fee8afdcfb4aca1f6c06164468
 p
 @src/ru/yandex/practicum/codingpractice/httpserver/Praktikum.java,6\0\608a15d3fae837fa72a24806ae8eebc5d1457f39
-ƒ
-Ssrc/ru/yandex/practicum/codingpractice/fincalcexp/FinancialCalculatorException.java,2\e\2e76e43a22e84e3b98531bd220ffb17334fb58d4
 w
 Gsrc/ru/yandex/practicum/codingpractice/fortunecookie/FortuneConfig.java,e\9\e9679058c8444dbca2e5dd16d036af9f2cfacdfd
 w
@@ -97,5 +83,3 @@ n
 >src/ru/yandex/practicum/codingpractice/examcalc/Practicum.java,b\f\bf33e649a24242bec1a125da4d804f33d2b8a05d
 =
 practicum.iml,1\c\1c039bcb674aa033113dbefb7c50433a8e2903ae
-e
-5src/ru/yandex/practicum/codingpractice/Practicum.java,6\4\647b0a5e66d81bd6d9f9ab1b6f6c46a72da1bb8d
