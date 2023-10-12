@@ -83,3 +83,7 @@ n
 >src/ru/yandex/practicum/codingpractice/examcalc/Practicum.java,b\f\bf33e649a24242bec1a125da4d804f33d2b8a05d
 =
 practicum.iml,1\c\1c039bcb674aa033113dbefb7c50433a8e2903ae
+e
+5src/ru/yandex/practicum/codingpractice/gonki/Car.java,8\3\83c51ecb79a1261640d88873b12022e486eb1f49
+o
+?src/ru/yandex/practicum/codingpractice/gonki/CarProperties.java,1\6\167be89ef70149a8a5e51f152c82d712f1d8595c
