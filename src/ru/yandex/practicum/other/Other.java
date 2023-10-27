@@ -1,6 +1,6 @@
-package ru.yandex.practicum;
+package ru.yandex.practicum.other;
 
-public class Practicum {
+public class Other {
 
     public static void main(String[] args) {
 

@@ -7,6 +7,7 @@
 1. Для учёбы в Практикуме → ru.yandex.practicum.
 2. Для хранения классов финансового приложения → ru.yandex.practicum.financeapp.
 3. Для классов, где буду отрабатывать новые навыки → ru.yandex.practicum.codingpractice.
+4. Для всего остального → ru.yandex.practicum.other.
 
 Приложение написано на Java. Пример кода:
 
