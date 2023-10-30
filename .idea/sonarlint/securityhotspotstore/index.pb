@@ -9,3 +9,11 @@ V
 &src/ru/yandex/practicum/Practicum.java,9\3\9374fde2265a234dc7de13144265afe997ef6c0f
 9
 	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+q
+Asrc/ru/yandex/practicum/financeapp/fincalcexp/LimitException.java,a\3\a330eebe1ca616358474207f746f64bfb9502bf6
+q
+Asrc/ru/yandex/practicum/financeapp/fincalcexp/InputException.java,4\7\47092eb52c66405999ed60a0c95a66b30cc3eaa4
+n
+>src/ru/yandex/practicum/financeapp/financialapp/Praktikum.java,7\0\70594a8f707863920b7d826c46fe80f1f398cc5c
+X
+(src/ru/yandex/practicum/other/Other.java,a\0\a059c4328a223b4646274dd421d5c466d10cf6f3
